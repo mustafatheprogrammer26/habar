@@ -261,5 +261,9 @@ header{
     padding-top: 12px;
 }
 .po{
-    padding-top: 20px;
+    float: right;
+}
+.po>img{
+    width: 250px;
+    height: 120px;
 }
